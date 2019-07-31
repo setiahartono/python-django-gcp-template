@@ -1,6 +1,7 @@
 # Django GCP Application Template
 
-This repository is a template application to start Django application. Just add some apps and you're good to go.
+This repository is a template application to start Django application.
+Just add some apps and you're good to go.
 
 
 # Tutorial
